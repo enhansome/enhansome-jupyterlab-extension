@@ -1,279 +1,604 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "Tools for diffing and merging of Jupyter notebooks.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 46264628,
+            "language": "TypeScript",
+            "last_commit": "2026-06-10T10:12:19Z",
+            "owner": "jupyter",
+            "repo": "nbdime",
+            "stars": 2840
+          },
+          "title": "nbdime"
+        }
+      ],
       "title": "Version Control"
     },
     {
-      "description": "A JupyterLab extension for version control using git.\n",
-      "items": [],
-      "title": "Jupyter Git"
-    },
-    {
-      "description": "Tools for diffing and merging of Jupyter notebooks.",
-      "items": [],
-      "title": "nbdime"
-    },
-    {
-      "description": "Automatically version jupyter notebooks in JupyterLab.\n",
-      "items": [],
-      "title": "jupyterlab_autoversion"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "GitHub integration for JupyterLab.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 107032756,
+            "language": "TypeScript",
+            "last_commit": "2024-03-25T09:01:34Z",
+            "owner": "jupyterlab",
+            "repo": "jupyterlab-github",
+            "stars": 437
+          },
+          "title": "Github Extenion"
+        },
+        {
+          "children": [],
+          "description": "Cloud storage for JupyterLab through Google Drive.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 76697406,
+            "language": "TypeScript",
+            "last_commit": "2023-08-03T16:55:22Z",
+            "owner": "jupyterlab",
+            "repo": "jupyterlab-google-drive",
+            "stars": 401
+          },
+          "title": "jupyterlab-google-drive"
+        },
+        {
+          "children": [],
+          "description": "JupyterLab extension for running JupyterLab with JupyterHub",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 71165991,
+            "language": "TypeScript",
+            "last_commit": "2019-07-09T11:23:46Z",
+            "owner": "jupyterhub",
+            "repo": "jupyterlab-hub",
+            "stars": 181
+          },
+          "title": "jupyterlab-hub"
+        }
+      ],
       "title": "Remote Access"
     },
     {
-      "description": "GitHub integration for JupyterLab.\n",
-      "items": [],
-      "title": "Github Extenion"
-    },
-    {
-      "description": "Cloud storage for JupyterLab through Google Drive.\n",
-      "items": [],
-      "title": "jupyterlab-google-drive"
-    },
-    {
-      "description": "JupyterLab extension for running JupyterLab with JupyterHub",
-      "items": [],
-      "title": "jupyterlab-hub"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "A universal code formatter for JupyterLab.\nvariableinspector:Jupyterlab extension that shows currently used variables and their values. The goal is to provide a tool similar to the variable inspector in RStudio.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 144499900,
+            "language": "Python",
+            "last_commit": "2026-08-07T07:11:43Z",
+            "owner": "jupyterlab-contrib",
+            "repo": "jupyterlab_code_formatter",
+            "stars": 906
+          },
+          "title": "jupyterlab_code_formatter"
+        }
+      ],
       "title": "Formatting/Beautification"
     },
     {
-      "description": "A universal code formatter for JupyterLab.\nvariableinspector:Jupyterlab extension that shows currently used variables and their values. The goal is to provide a tool similar to the variable inspector in RStudio.\n",
-      "items": [],
-      "title": "jupyterlab_code_formatter"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "A JupyterLab extension for managing GPU environments.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 539549415,
+            "language": "TypeScript",
+            "last_commit": "2024-02-19T11:37:31Z",
+            "owner": "run-ai",
+            "repo": "jupyterlab_genv",
+            "stars": 26
+          },
+          "title": "genv"
+        }
+      ],
       "title": "GPU Management"
     },
     {
-      "description": "A JupyterLab extension for managing GPU environments.\n",
-      "items": [],
-      "title": "genv"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "Vim notebook cell bindings for JupyterLab.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 112877413,
+            "language": "TypeScript",
+            "last_commit": "2023-04-05T12:21:41Z",
+            "owner": "jwkvam",
+            "repo": "jupyterlab-vim",
+            "stars": 981
+          },
+          "title": "jupyterlab-vim"
+        },
+        {
+          "children": [],
+          "description": "An extension for JupyterLab which allows for live-editing of LaTeX documents.\nLatex",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 108065356,
+            "language": "TypeScript",
+            "last_commit": "2025-12-17T09:34:48Z",
+            "owner": "jupyterlab",
+            "repo": "jupyterlab-latex",
+            "stars": 686
+          },
+          "title": "JupyterLab LaTeX"
+        },
+        {
+          "children": [],
+          "description": "A standalone embedding of the FOSS drawio / mxgraph package into jupyterlab.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 119714147,
+            "language": "JavaScript",
+            "last_commit": "2024-07-25T13:25:21Z",
+            "owner": "QuantStack",
+            "repo": "jupyterlab-drawio",
+            "stars": 623
+          },
+          "title": "Jupyterlab-drawio"
+        },
+        {
+          "children": [],
+          "description": "A JupyterLab extension providing the Monaco editor.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 129974975,
+            "language": "TypeScript",
+            "last_commit": "2023-08-08T06:48:44Z",
+            "owner": "jupyterlab",
+            "repo": "jupyterlab-monaco",
+            "stars": 240
+          },
+          "title": "jupyterlab-monaco"
+        },
+        {
+          "children": [],
+          "description": "Support for jupyter notebook templates in jupyterlab.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 258549475,
+            "language": "JavaScript",
+            "last_commit": "2026-07-28T17:36:46Z",
+            "owner": "timkpaine",
+            "repo": "jupyterlab_templates",
+            "stars": 26
+          },
+          "title": "jupyterlab_templates"
+        },
+        {
+          "children": [],
+          "description": "Jump to definition of a variable or function in JupyterLab notebook and file editor.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 162771624,
+            "language": "TypeScript",
+            "last_commit": "2021-08-23T19:48:16Z",
+            "owner": "krassowski",
+            "repo": "jupyterlab-go-to-definition",
+            "stars": 226
+          },
+          "title": "jupyterlab-go-to-definition"
+        },
+        {
+          "children": [],
+          "description": "A spell checker extension for markdown cells in jupyterlab notebooks. Highlights misspelled words.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 127723043,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T01:51:47Z",
+            "owner": "jupyterlab-contrib",
+            "repo": "spellchecker",
+            "stars": 213
+          },
+          "title": "jupyterlab_spellchecker"
+        },
+        {
+          "children": [],
+          "description": "A JupyterLab extension to show Spark Application UI in a JupyterLab panel.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 182369714,
+            "language": "TypeScript",
+            "last_commit": "2021-09-05T13:13:14Z",
+            "owner": "manuzhang",
+            "repo": "jupyterlab_spark",
+            "stars": 12
+          },
+          "title": "jupyterlab_spark"
+        }
+      ],
       "title": "Write"
     },
     {
-      "description": "Vim notebook cell bindings for JupyterLab.\n",
-      "items": [],
-      "title": "jupyterlab-vim"
-    },
-    {
-      "description": "An extension for JupyterLab which allows for live-editing of LaTeX documents.\nLatex",
-      "items": [],
-      "title": "JupyterLab LaTeX"
-    },
-    {
-      "description": "A standalone embedding of the FOSS drawio / mxgraph package into jupyterlab.\n",
-      "items": [],
-      "title": "Jupyterlab-drawio"
-    },
-    {
-      "description": "A JupyterLab extension providing the Monaco editor.\n",
-      "items": [],
-      "title": "jupyterlab-monaco"
-    },
-    {
-      "description": "Support for jupyter notebook templates in jupyterlab.\n\n",
-      "items": [],
-      "title": "jupyterlab_templates"
-    },
-    {
-      "description": "Jump to definition of a variable or function in JupyterLab notebook and file editor.\n",
-      "items": [],
-      "title": "jupyterlab-go-to-definition"
-    },
-    {
-      "description": "A spell checker extension for markdown cells in jupyterlab notebooks. Highlights misspelled words.",
-      "items": [],
-      "title": "jupyterlab_spellchecker"
-    },
-    {
-      "description": "A JupyterLab extension to show Spark Application UI in a JupyterLab panel.\n",
-      "items": [],
-      "title": "jupyterlab_spark"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "Table of Contents extension for JupyterLab.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 124914240,
+            "language": "TypeScript",
+            "last_commit": "2022-07-07T04:18:47Z",
+            "owner": "jupyterlab",
+            "repo": "jupyterlab-toc",
+            "stars": 728
+          },
+          "title": "Jupyterlab-toc"
+        },
+        {
+          "children": [],
+          "description": "An Extension for the Interactive development of Dash apps in JupyterLab",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 156599813,
+            "language": "Python",
+            "last_commit": "2025-08-29T05:16:04Z",
+            "owner": "plotly",
+            "repo": "jupyterlab-dash",
+            "stars": 362
+          },
+          "title": "jupyterlab-dash"
+        },
+        {
+          "children": [],
+          "description": "This is a monorepo that consists of generic renderers for common file types and mime types as well as renderer extensions for JupyterLab.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 93772766,
+            "language": "HTML",
+            "last_commit": "2026-03-04T00:15:50Z",
+            "owner": "jupyterlab",
+            "repo": "jupyter-renderers",
+            "stars": 518
+          },
+          "title": "jupyter-renderers"
+        },
+        {
+          "children": [],
+          "description": "Leveraging the Jupyter interactive widgets framework, jupyter-matplotlib enables the interactive features of matplotlib in the Jupyter notebook and in Jupyterlab.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 63877123,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-31T12:18:52Z",
+            "owner": "matplotlib",
+            "repo": "ipympl",
+            "stars": 1656
+          },
+          "title": "jupyter-matplotlib"
+        },
+        {
+          "children": [],
+          "description": "A JupyterLab extension for tensorboard.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 144718023,
+            "language": "TypeScript",
+            "last_commit": "2022-07-21T07:29:55Z",
+            "owner": "chesterli29",
+            "repo": "jupyterlab_tensorboard",
+            "stars": 312
+          },
+          "title": "jupyterlab_tensorboard"
+        },
+        {
+          "children": [],
+          "description": "ipywidgets are interactive HTML widgets for Jupyter notebooks and the IPython kernel. Notebooks come alive when interactive widgets are used. Users gain control of their data and can visualize changes in the data.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 34138622,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T07:43:12Z",
+            "owner": "jupyter-widgets",
+            "repo": "ipywidgets",
+            "stars": 3326
+          },
+          "title": "jupyter-widgets / ipywidgets"
+        },
+        {
+          "children": [],
+          "description": "JupyterLab extension visualize data with Voyager.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 101495888,
+            "language": "TypeScript",
+            "last_commit": "2022-12-06T19:48:00Z",
+            "owner": "altair-viz",
+            "repo": "jupyterlab_voyager",
+            "stars": 303
+          },
+          "title": "Jupyterlab_voyager"
+        },
+        {
+          "children": [],
+          "description": "Seamless integration of Knowledge-Repo and JupyterLab. The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles using data formats and tools that make sense in these professions.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 107341993,
+            "language": "Python",
+            "last_commit": "2026-08-11T16:24:52Z",
+            "owner": "tkp-archive",
+            "repo": "knowledgelab",
+            "stars": 48
+          },
+          "title": "knowledgelab"
+        },
+        {
+          "children": [],
+          "description": "Interactive Jupyter widgets to visualize images in 2D and 3D.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 121581663,
+            "language": "Python",
+            "last_commit": "2026-03-10T21:02:03Z",
+            "owner": "InsightSoftwareConsortium",
+            "repo": "itkwidgets",
+            "stars": 623
+          },
+          "title": "itk-jupyter-widgets"
+        },
+        {
+          "children": [],
+          "description": "p5.js in the Jupyter Notebook using the Jupyter Widgets.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 124116426,
+            "language": "Python",
+            "last_commit": "2023-01-04T06:51:10Z",
+            "owner": "jtpio",
+            "repo": "ipyp5",
+            "stars": 42
+          },
+          "title": "ipyp5"
+        }
+      ],
       "title": "Read/Interact"
     },
     {
-      "description": "Table of Contents extension for JupyterLab.\n",
-      "items": [],
-      "title": "Jupyterlab-toc"
-    },
-    {
-      "description": "An Extension for the Interactive development of Dash apps in JupyterLab\n",
-      "items": [],
-      "title": "jupyterlab-dash"
-    },
-    {
-      "description": "This is a monorepo that consists of generic renderers for common file types and mime types as well as renderer extensions for JupyterLab.",
-      "items": [],
-      "title": "jupyter-renderers"
-    },
-    {
-      "description": "Leveraging the Jupyter interactive widgets framework, jupyter-matplotlib enables the interactive features of matplotlib in the Jupyter notebook and in Jupyterlab.\n",
-      "items": [],
-      "title": "jupyter-matplotlib"
-    },
-    {
-      "description": "A JupyterLab extension for tensorboard.",
-      "items": [],
-      "title": "jupyterlab_tensorboard"
-    },
-    {
-      "description": "ipywidgets are interactive HTML widgets for Jupyter notebooks and the IPython kernel. Notebooks come alive when interactive widgets are used. Users gain control of their data and can visualize changes in the data.",
-      "items": [],
-      "title": "jupyter-widgets / ipywidgets"
-    },
-    {
-      "description": "JupyterLab extension visualize data with Voyager.\n",
-      "items": [],
-      "title": "Jupyterlab_voyager"
-    },
-    {
-      "description": "A Jupyter / Leaflet bridge enabling interactive maps in the Jupyter notebook.\n",
-      "items": [],
-      "title": "ipyleaflet"
-    },
-    {
-      "description": "Making GUIs easy for everyone on your team. The primary benefit is that front ends for Python code become easily accessible to everyone on your team. Easy to use, easy to update, easy to extend, and easy to understand.",
-      "items": [],
-      "title": "scriptedforms"
-    },
-    {
-      "description": "Seamless integration of Knowledge-Repo and JupyterLab. The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles using data formats and tools that make sense in these professions.\n",
-      "items": [],
-      "title": "knowledgelab"
-    },
-    {
-      "description": "An orchestration layer for plots and tables, dummy datasets, widgets, research, reports, and anything else a data scientist might need.\n",
-      "items": [],
-      "title": "lantern"
-    },
-    {
-      "description": "Interactive Jupyter widgets to visualize images in 2D and 3D.\n",
-      "items": [],
-      "title": "itk-jupyter-widgets"
-    },
-    {
-      "description": "p5.js in the Jupyter Notebook using the Jupyter Widgets.\n",
-      "items": [],
-      "title": "ipyp5"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "JupyterLab extension for interacting with SQL databases.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 168674852,
+            "language": "TypeScript",
+            "last_commit": "2023-01-05T04:02:41Z",
+            "owner": "pbugnion",
+            "repo": "jupyterlab-sql",
+            "stars": 429
+          },
+          "title": "jupyterlab-sql"
+        },
+        {
+          "children": [],
+          "description": "Connect to OmniSci, query their databases, and render the OmniSci-flavored Vega specification, all within JupyterLab.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 205287794,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-08-29T23:59:17Z",
+            "owner": "Quansight",
+            "repo": "jupyterlab-omnisci",
+            "stars": 3
+          },
+          "title": "jupyterlab-omnisci"
+        }
+      ],
       "title": "Database"
     },
     {
-      "description": "JupyterLab extension for interacting with SQL databases.\n",
-      "items": [],
-      "title": "jupyterlab-sql"
-    },
-    {
-      "description": "Connect to OmniSci, query their databases, and render the OmniSci-flavored Vega specification, all within JupyterLab.",
-      "items": [],
-      "title": "jupyterlab-omnisci"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "Jupyter notebooks as Markdown documents, Julia, Python or R scripts.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 137444487,
+            "language": "Python",
+            "last_commit": "2026-08-18T01:37:42Z",
+            "owner": "jupytext",
+            "repo": "jupytext",
+            "stars": 7229
+          },
+          "title": "mwouts / jupytext"
+        },
+        {
+          "children": [],
+          "description": "A jupyterlab extension to email notebooks from the browser.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 143883226,
+            "language": "Python",
+            "last_commit": "2026-08-16T14:59:42Z",
+            "owner": "timkpaine",
+            "repo": "jupyterlab-email",
+            "stars": 61
+          },
+          "title": "jupyterlab_email"
+        },
+        {
+          "children": [],
+          "description": "Monorepo to experiment with the top bar space in JupyterLab. Similar to the status bar, the top bar can be used to place a few indicators and optimize the overall space.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 372574371,
+            "language": "TypeScript",
+            "last_commit": "2024-02-23T12:48:27Z",
+            "owner": "jtpio",
+            "repo": "jupyterlab-topbar",
+            "stars": 6
+          },
+          "title": "JupyterLab Top Bar"
+        },
+        {
+          "children": [],
+          "description": "Jupyterlab extension for SoS Polyglot Notebook and Workflow Engine, allows multiple kernels in one notebook.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 126045432,
+            "language": "HTML",
+            "last_commit": "2026-02-07T16:32:11Z",
+            "owner": "vatlab",
+            "repo": "jupyterlab-sos",
+            "stars": 79
+          },
+          "title": "jupyterlab-sos"
+        },
+        {
+          "children": [],
+          "description": "Support for arbitrary python commands in the command palette.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 143177684,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T14:59:43Z",
+            "owner": "timkpaine",
+            "repo": "jupyterlab-commands",
+            "stars": 63
+          },
+          "title": "jupyterlab_commands"
+        }
+      ],
       "title": "Tools"
     },
     {
-      "description": "Jupyter notebooks as Markdown documents, Julia, Python or R scripts.",
-      "items": [],
-      "title": "mwouts / jupytext"
-    },
-    {
-      "description": "A jupyterlab extension to email notebooks from the browser.",
-      "items": [],
-      "title": "jupyterlab_email"
-    },
-    {
-      "description": "Monorepo to experiment with the top bar space in JupyterLab. Similar to the status bar, the top bar can be used to place a few indicators and optimize the overall space.\n\n",
-      "items": [],
-      "title": "JupyterLab Top Bar"
-    },
-    {
-      "description": "Jupyterlab extension for SoS Polyglot Notebook and Workflow Engine, allows multiple kernels in one notebook.",
-      "items": [],
-      "title": "jupyterlab-sos"
-    },
-    {
-      "description": "Support for arbitrary python commands in the command palette.\n",
-      "items": [],
-      "title": "jupyterlab_commands"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "Material Darker JupyterLab Extension.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 124306749,
+            "language": "CSS",
+            "last_commit": "2026-01-04T02:28:12Z",
+            "owner": "oriolmirosa",
+            "repo": "jupyterlab_materialdarker",
+            "stars": 170
+          },
+          "title": "jupyterlab_materialdarker"
+        },
+        {
+          "children": [],
+          "description": "A dark theme for Jupyter Lab with accompanying Matplotlib theme.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 137575263,
+            "language": "CSS",
+            "last_commit": "2020-01-23T23:18:10Z",
+            "owner": "burglarbenson",
+            "repo": "Jupyter-Atom-Dark-Theme",
+            "stars": 72
+          },
+          "title": "Jupyter-Atom-Dark-Theme"
+        },
+        {
+          "children": [],
+          "description": "Darcula theme for Jupyterlab. Modelled after the classic Intellij theme.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 166749179,
+            "language": "CSS",
+            "last_commit": "2023-06-06T08:38:20Z",
+            "owner": "telamonian",
+            "repo": "theme-darcula",
+            "stars": 219
+          },
+          "title": "@telamonian/theme-darcula"
+        },
+        {
+          "children": [],
+          "description": "Gruvbox theme and colorscheme for JupyterLab and Matplotlib.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 143407549,
+            "language": "CSS",
+            "last_commit": "2019-09-29T15:52:17Z",
+            "owner": "theodcr",
+            "repo": "jupyterlab-gruvbox",
+            "stars": 6
+          },
+          "title": "jupyterlab-gruvbox"
+        },
+        {
+          "children": [],
+          "description": "A JupyterLab theme extension which provides the AixViPMaP theme.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 136575207,
+            "language": "CSS",
+            "last_commit": "2018-11-08T15:38:14Z",
+            "owner": "AixViPMaP",
+            "repo": "jlab-theme",
+            "stars": 6
+          },
+          "title": "JupyterLab AixViPMaP theme"
+        }
+      ],
       "title": "Theme"
-    },
-    {
-      "description": "Material Darker JupyterLab Extension.\n",
-      "items": [],
-      "title": "jupyterlab_materialdarker"
-    },
-    {
-      "description": "Dracula Theme for JupyterLab.",
-      "items": [],
-      "title": "jupyterlab_dracula"
-    },
-    {
-      "description": "A dark theme for Jupyter Lab with accompanying Matplotlib theme.\n",
-      "items": [],
-      "title": "Jupyter-Atom-Dark-Theme"
-    },
-    {
-      "description": "A JupyterLab theme based on the 1999 movie, The Matrix.",
-      "items": [],
-      "title": "jupyterlab_redpill_theme"
-    },
-    {
-      "description": "Darcula theme for Jupyterlab. Modelled after the classic Intellij theme.\n",
-      "items": [],
-      "title": "@telamonian/theme-darcula"
-    },
-    {
-      "description": "Gruvbox theme and colorscheme for JupyterLab and Matplotlib.",
-      "items": [],
-      "title": "jupyterlab-gruvbox"
-    },
-    {
-      "description": "A JupyterLab theme extension which provides the AixViPMaP theme.",
-      "items": [],
-      "title": "JupyterLab AixViPMaP theme"
-    },
-    {
-      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.",
-      "items": [],
-      "title": "How to Contribute"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:01:49.850Z",
+    "last_updated": "2026-08-19T12:34:56.079Z",
     "original_repository": "Yogayu/awesome-jupyterlab-extension",
+    "original_repository_id": 184920732,
     "original_repository_sha": "491f219965da5d6df65114393a8b116ae78c3dc7",
     "enhanced_repository": "enhansome/enhansome-jupyterlab-extension",
     "enhanced_repository_description": null,
