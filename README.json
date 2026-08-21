@@ -50,7 +50,7 @@
             "last_commit": "2023-08-03T16:55:22Z",
             "owner": "jupyterlab",
             "repo": "jupyterlab-google-drive",
-            "stars": 401
+            "stars": 399
           },
           "title": "jupyterlab-google-drive"
         },
@@ -218,7 +218,7 @@
             "last_commit": "2026-08-11T01:51:47Z",
             "owner": "jupyterlab-contrib",
             "repo": "spellchecker",
-            "stars": 213
+            "stars": 212
           },
           "title": "jupyterlab_spellchecker"
         },
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:00:11.925Z",
+    "last_updated": "2026-08-21T02:08:04.090Z",
     "original_repository": "Yogayu/awesome-jupyterlab-extension",
     "original_repository_id": 184920732,
     "original_repository_sha": "491f219965da5d6df65114393a8b116ae78c3dc7",
