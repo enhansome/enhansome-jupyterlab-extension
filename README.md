@@ -187,9 +187,9 @@ An Extension for the Interactive development of Dash apps in JupyterLab
 
 ![JupyterLab and Dash Demo Video](https://user-images.githubusercontent.com/1280389/47668836-da9f4280-db7f-11e8-8523-8663b6a5347f.gif)
 
-### [jupyter-renderers](https://github.com/jupyterlab/jupyter-renderers) ⭐ 518 | 🐛 46 | 🌐 HTML | 📅 2026-03-04
+### [jupyter-renderers](https://github.com/jupyterlab/jupyter-renderers) ⭐ 517 | 🐛 46 | 🌐 HTML | 📅 2026-03-04
 
-This is a [monorepo](https://github.com/lerna/lerna#what-does-a-lerna-repo-look-like) ⭐ 36,050 | 🐛 287 | 🌐 TypeScript | 📅 2026-08-19 that consists of generic renderers for common file types and mime types as well as renderer extensions for [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,261 | 🐛 2,587 | 🌐 TypeScript | 📅 2026-08-19.
+This is a [monorepo](https://github.com/lerna/lerna#what-does-a-lerna-repo-look-like) ⭐ 36,052 | 🐛 287 | 🌐 TypeScript | 📅 2026-08-19 that consists of generic renderers for common file types and mime types as well as renderer extensions for [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,263 | 🐛 2,589 | 🌐 TypeScript | 📅 2026-08-19.
 
 ### [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib) ⭐ 1,656 | 🐛 169 | 🌐 Jupyter Notebook | 📅 2026-07-31
 
@@ -223,7 +223,7 @@ Making GUIs easy for everyone on your team. The primary benefit is that front en
 
 ### [knowledgelab](https://github.com/timkpaine/knowledgelab) ⭐ 48 | 🐛 2 | 🌐 Python | 📅 2026-08-11
 
-Seamless integration of [Knowledge-Repo](https://github.com/airbnb/knowledge-repo) ⭐ 5,538 | 🐛 137 | 🌐 Python | 📅 2024-09-04 and [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,261 | 🐛 2,587 | 🌐 TypeScript | 📅 2026-08-19. The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles using data formats and tools that make sense in these professions.
+Seamless integration of [Knowledge-Repo](https://github.com/airbnb/knowledge-repo) ⭐ 5,539 | 🐛 137 | 🌐 Python | 📅 2024-09-04 and [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,263 | 🐛 2,589 | 🌐 TypeScript | 📅 2026-08-19. The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles using data formats and tools that make sense in these professions.
 
 ![Main Feed](https://user-images.githubusercontent.com/124910/37555895-d6ad133a-2a42-11e8-9bb5-1b7ee8d60ef9.png)
 
@@ -259,7 +259,7 @@ Connect to OmniSci, query their databases, and render the OmniSci-flavored Vega 
 
 ## Tools
 
-### [mwouts / jupytext](https://github.com/mwouts/jupytext) ⭐ 7,229 | 🐛 168 | 🌐 Python | 📅 2026-08-18
+### [mwouts / jupytext](https://github.com/mwouts/jupytext) ⭐ 7,230 | 🐛 168 | 🌐 Python | 📅 2026-08-18
 
 Jupyter notebooks as Markdown documents, Julia, Python or R scripts.
 
@@ -269,7 +269,7 @@ A jupyterlab extension to email notebooks from the browser.
 
 ### [JupyterLab Top Bar](https://github.com/jtpio/jupyterlab-topbar) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2024-02-23
 
-Monorepo to experiment with the top bar space in JupyterLab. Similar to the [status bar](https://github.com/jupyterlab/jupyterlab/tree/master/packages/statusbar-extension) ⭐ 15,261 | 🐛 2,587 | 🌐 TypeScript | 📅 2026-08-19, the top bar can be used to place a few indicators and optimize the overall space.
+Monorepo to experiment with the top bar space in JupyterLab. Similar to the [status bar](https://github.com/jupyterlab/jupyterlab/tree/master/packages/statusbar-extension) ⭐ 15,263 | 🐛 2,589 | 🌐 TypeScript | 📅 2026-08-19, the top bar can be used to place a few indicators and optimize the overall space.
 
 ![screenshot](https://github.com/jtpio/jupyterlab-topbar/raw/master/doc/screenshot.png)
 
@@ -332,4 +332,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
