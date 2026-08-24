@@ -458,7 +458,7 @@
             "archived": false,
             "id": 143883226,
             "language": "Python",
-            "last_commit": "2026-08-16T14:59:42Z",
+            "last_commit": "2026-08-23T15:15:49Z",
             "owner": "timkpaine",
             "repo": "jupyterlab-email",
             "stars": 61
@@ -503,7 +503,7 @@
             "archived": false,
             "id": 143177684,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T14:59:43Z",
+            "last_commit": "2026-08-23T16:20:56Z",
             "owner": "timkpaine",
             "repo": "jupyterlab-commands",
             "stars": 63
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:09:47.034Z",
+    "last_updated": "2026-08-24T02:08:11.121Z",
     "original_repository": "Yogayu/awesome-jupyterlab-extension",
     "original_repository_id": 184920732,
     "original_repository_sha": "491f219965da5d6df65114393a8b116ae78c3dc7",
