@@ -189,7 +189,7 @@ An Extension for the Interactive development of Dash apps in JupyterLab
 
 ### [jupyter-renderers](https://github.com/jupyterlab/jupyter-renderers) ⭐ 517 | 🐛 46 | 🌐 HTML | 📅 2026-03-04
 
-This is a [monorepo](https://github.com/lerna/lerna#what-does-a-lerna-repo-look-like) ⭐ 36,053 | 🐛 287 | 🌐 TypeScript | 📅 2026-08-19 that consists of generic renderers for common file types and mime types as well as renderer extensions for [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,266 | 🐛 2,593 | 🌐 TypeScript | 📅 2026-08-19.
+This is a [monorepo](https://github.com/lerna/lerna#what-does-a-lerna-repo-look-like) ⭐ 36,054 | 🐛 287 | 🌐 TypeScript | 📅 2026-08-19 that consists of generic renderers for common file types and mime types as well as renderer extensions for [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,266 | 🐛 2,593 | 🌐 TypeScript | 📅 2026-08-19.
 
 ### [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib) ⭐ 1,656 | 🐛 169 | 🌐 Jupyter Notebook | 📅 2026-07-31
 
@@ -332,4 +332,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
