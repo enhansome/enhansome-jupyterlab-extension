@@ -8,7 +8,7 @@
 
 **Table of Contents**
 
-*generated with [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,460 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-04*
+*generated with [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,461 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-04*
 
 * [awesome-jupyterlab-extension \*](#awesome-jupyterlab-extension-)
   * [Table of Contents](#table-of-contents)
@@ -77,7 +77,7 @@ A JupyterLab extension for version control using git.
 
 ![draw](media/git.gif)
 
-### [nbdime](https://github.com/jupyter/nbdime) ⭐ 2,840 | 🐛 95 | 🌐 TypeScript | 📅 2026-06-10
+### [nbdime](https://github.com/jupyter/nbdime) ⭐ 2,840 | 🐛 96 | 🌐 TypeScript | 📅 2026-06-10
 
 Tools for diffing and merging of Jupyter notebooks.
 
@@ -189,7 +189,7 @@ An Extension for the Interactive development of Dash apps in JupyterLab
 
 ### [jupyter-renderers](https://github.com/jupyterlab/jupyter-renderers) ⭐ 517 | 🐛 46 | 🌐 HTML | 📅 2026-03-04
 
-This is a [monorepo](https://github.com/lerna/lerna#what-does-a-lerna-repo-look-like) ⭐ 36,054 | 🐛 288 | 🌐 TypeScript | 📅 2026-08-19 that consists of generic renderers for common file types and mime types as well as renderer extensions for [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,266 | 🐛 2,593 | 🌐 TypeScript | 📅 2026-08-19.
+This is a [monorepo](https://github.com/lerna/lerna#what-does-a-lerna-repo-look-like) ⭐ 36,054 | 🐛 289 | 🌐 TypeScript | 📅 2026-08-19 that consists of generic renderers for common file types and mime types as well as renderer extensions for [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,269 | 🐛 2,595 | 🌐 TypeScript | 📅 2026-08-25.
 
 ### [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib) ⭐ 1,656 | 🐛 169 | 🌐 Jupyter Notebook | 📅 2026-07-31
 
@@ -201,9 +201,9 @@ Leveraging the Jupyter interactive widgets framework, jupyter-matplotlib enables
 
 A JupyterLab extension for tensorboard.
 
-### [jupyter-widgets / ipywidgets](https://github.com/jupyter-widgets/ipywidgets) ⭐ 3,326 | 🐛 797 | 🌐 TypeScript | 📅 2026-08-19
+### [jupyter-widgets / ipywidgets](https://github.com/jupyter-widgets/ipywidgets) ⭐ 3,326 | 🐛 798 | 🌐 TypeScript | 📅 2026-08-19
 
-ipywidgets are [interactive HTML widgets](https://github.com/jupyter-widgets/ipywidgets/blob/master/docs/source/examples/Index.ipynb) ⭐ 3,326 | 🐛 797 | 🌐 TypeScript | 📅 2026-08-19 for Jupyter notebooks and the IPython kernel. Notebooks come alive when interactive widgets are used. Users gain control of their data and can visualize changes in the data.
+ipywidgets are [interactive HTML widgets](https://github.com/jupyter-widgets/ipywidgets/blob/master/docs/source/examples/Index.ipynb) ⭐ 3,326 | 🐛 798 | 🌐 TypeScript | 📅 2026-08-19 for Jupyter notebooks and the IPython kernel. Notebooks come alive when interactive widgets are used. Users gain control of their data and can visualize changes in the data.
 
 ### [Jupyterlab\_voyager](https://github.com/altair-viz/jupyterlab_voyager) ⭐ 303 | 🐛 63 | 🌐 TypeScript | 📅 2022-12-06
 
@@ -223,7 +223,7 @@ Making GUIs easy for everyone on your team. The primary benefit is that front en
 
 ### [knowledgelab](https://github.com/timkpaine/knowledgelab) ⭐ 48 | 🐛 2 | 🌐 Python | 📅 2026-08-11
 
-Seamless integration of [Knowledge-Repo](https://github.com/airbnb/knowledge-repo) ⭐ 5,539 | 🐛 137 | 🌐 Python | 📅 2024-09-04 and [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,266 | 🐛 2,593 | 🌐 TypeScript | 📅 2026-08-19. The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles using data formats and tools that make sense in these professions.
+Seamless integration of [Knowledge-Repo](https://github.com/airbnb/knowledge-repo) ⭐ 5,539 | 🐛 137 | 🌐 Python | 📅 2024-09-04 and [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,269 | 🐛 2,595 | 🌐 TypeScript | 📅 2026-08-25. The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles using data formats and tools that make sense in these professions.
 
 ![Main Feed](https://user-images.githubusercontent.com/124910/37555895-d6ad133a-2a42-11e8-9bb5-1b7ee8d60ef9.png)
 
@@ -233,7 +233,7 @@ An orchestration layer for plots and tables, dummy datasets, widgets, research, 
 
 ![img](https://raw.githubusercontent.com/timkpaine/lantern/master/docs/img/grids.gif)
 
-### [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) ⭐ 623 | 🐛 128 | 🌐 Python | 📅 2026-03-10
+### [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) ⭐ 624 | 🐛 128 | 🌐 Python | 📅 2026-03-10
 
 Interactive [Jupyter](https://jupyter.org/) widgets to visualize images in 2D and 3D.
 
@@ -259,7 +259,7 @@ Connect to OmniSci, query their databases, and render the OmniSci-flavored Vega 
 
 ## Tools
 
-### [mwouts / jupytext](https://github.com/mwouts/jupytext) ⭐ 7,230 | 🐛 169 | 🌐 Python | 📅 2026-08-18
+### [mwouts / jupytext](https://github.com/mwouts/jupytext) ⭐ 7,231 | 🐛 171 | 🌐 Python | 📅 2026-08-18
 
 Jupyter notebooks as Markdown documents, Julia, Python or R scripts.
 
@@ -269,7 +269,7 @@ A jupyterlab extension to email notebooks from the browser.
 
 ### [JupyterLab Top Bar](https://github.com/jtpio/jupyterlab-topbar) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2024-02-23
 
-Monorepo to experiment with the top bar space in JupyterLab. Similar to the [status bar](https://github.com/jupyterlab/jupyterlab/tree/master/packages/statusbar-extension) ⭐ 15,266 | 🐛 2,593 | 🌐 TypeScript | 📅 2026-08-19, the top bar can be used to place a few indicators and optimize the overall space.
+Monorepo to experiment with the top bar space in JupyterLab. Similar to the [status bar](https://github.com/jupyterlab/jupyterlab/tree/master/packages/statusbar-extension) ⭐ 15,269 | 🐛 2,595 | 🌐 TypeScript | 📅 2026-08-25, the top bar can be used to place a few indicators and optimize the overall space.
 
 ![screenshot](https://github.com/jtpio/jupyterlab-topbar/raw/master/doc/screenshot.png)
 
@@ -332,4 +332,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

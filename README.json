@@ -374,7 +374,7 @@
             "last_commit": "2026-03-10T21:02:03Z",
             "owner": "InsightSoftwareConsortium",
             "repo": "itkwidgets",
-            "stars": 623
+            "stars": 624
           },
           "title": "itk-jupyter-widgets"
         },
@@ -446,7 +446,7 @@
             "last_commit": "2026-08-18T01:37:42Z",
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7230
+            "stars": 7231
           },
           "title": "mwouts / jupytext"
         },
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:24:58.570Z",
+    "last_updated": "2026-08-26T02:09:21.150Z",
     "original_repository": "Yogayu/awesome-jupyterlab-extension",
     "original_repository_id": 184920732,
     "original_repository_sha": "491f219965da5d6df65114393a8b116ae78c3dc7",
