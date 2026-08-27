@@ -86,7 +86,7 @@
             "last_commit": "2026-08-07T07:11:43Z",
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab_code_formatter",
-            "stars": 906
+            "stars": 907
           },
           "title": "jupyterlab_code_formatter"
         }
@@ -446,7 +446,7 @@
             "last_commit": "2026-08-18T01:37:42Z",
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7231
+            "stars": 7232
           },
           "title": "mwouts / jupytext"
         },
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:09:21.150Z",
+    "last_updated": "2026-08-27T10:08:24.578Z",
     "original_repository": "Yogayu/awesome-jupyterlab-extension",
     "original_repository_id": 184920732,
     "original_repository_sha": "491f219965da5d6df65114393a8b116ae78c3dc7",
