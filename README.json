@@ -14,9 +14,10 @@
             "last_commit": "2026-06-10T10:12:19Z",
             "owner": "jupyter",
             "repo": "nbdime",
-            "stars": 2840
+            "stars": 2841
           },
-          "title": "nbdime"
+          "title": "nbdime",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         }
       ],
       "title": "Version Control"
@@ -37,7 +38,8 @@
             "repo": "jupyterlab-github",
             "stars": 437
           },
-          "title": "Github Extenion"
+          "title": "Github Extenion",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -52,7 +54,8 @@
             "repo": "jupyterlab-google-drive",
             "stars": 399
           },
-          "title": "jupyterlab-google-drive"
+          "title": "jupyterlab-google-drive",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -67,7 +70,8 @@
             "repo": "jupyterlab-hub",
             "stars": 181
           },
-          "title": "jupyterlab-hub"
+          "title": "jupyterlab-hub",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         }
       ],
       "title": "Remote Access"
@@ -88,7 +92,8 @@
             "repo": "jupyterlab_code_formatter",
             "stars": 907
           },
-          "title": "jupyterlab_code_formatter"
+          "title": "jupyterlab_code_formatter",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         }
       ],
       "title": "Formatting/Beautification"
@@ -109,7 +114,8 @@
             "repo": "jupyterlab_genv",
             "stars": 26
           },
-          "title": "genv"
+          "title": "genv",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         }
       ],
       "title": "GPU Management"
@@ -130,7 +136,8 @@
             "repo": "jupyterlab-vim",
             "stars": 981
           },
-          "title": "jupyterlab-vim"
+          "title": "jupyterlab-vim",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -145,7 +152,8 @@
             "repo": "jupyterlab-latex",
             "stars": 686
           },
-          "title": "JupyterLab LaTeX"
+          "title": "JupyterLab LaTeX",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -160,7 +168,8 @@
             "repo": "jupyterlab-drawio",
             "stars": 623
           },
-          "title": "Jupyterlab-drawio"
+          "title": "Jupyterlab-drawio",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -175,7 +184,8 @@
             "repo": "jupyterlab-monaco",
             "stars": 240
           },
-          "title": "jupyterlab-monaco"
+          "title": "jupyterlab-monaco",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -190,7 +200,8 @@
             "repo": "jupyterlab_templates",
             "stars": 26
           },
-          "title": "jupyterlab_templates"
+          "title": "jupyterlab_templates",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -205,7 +216,8 @@
             "repo": "jupyterlab-go-to-definition",
             "stars": 226
           },
-          "title": "jupyterlab-go-to-definition"
+          "title": "jupyterlab-go-to-definition",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -220,7 +232,8 @@
             "repo": "spellchecker",
             "stars": 212
           },
-          "title": "jupyterlab_spellchecker"
+          "title": "jupyterlab_spellchecker",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -235,7 +248,8 @@
             "repo": "jupyterlab_spark",
             "stars": 12
           },
-          "title": "jupyterlab_spark"
+          "title": "jupyterlab_spark",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         }
       ],
       "title": "Write"
@@ -256,7 +270,8 @@
             "repo": "jupyterlab-toc",
             "stars": 728
           },
-          "title": "Jupyterlab-toc"
+          "title": "Jupyterlab-toc",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -271,7 +286,8 @@
             "repo": "jupyterlab-dash",
             "stars": 362
           },
-          "title": "jupyterlab-dash"
+          "title": "jupyterlab-dash",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -286,7 +302,8 @@
             "repo": "jupyter-renderers",
             "stars": 517
           },
-          "title": "jupyter-renderers"
+          "title": "jupyter-renderers",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -301,7 +318,8 @@
             "repo": "ipympl",
             "stars": 1657
           },
-          "title": "jupyter-matplotlib"
+          "title": "jupyter-matplotlib",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -316,7 +334,8 @@
             "repo": "jupyterlab_tensorboard",
             "stars": 312
           },
-          "title": "jupyterlab_tensorboard"
+          "title": "jupyterlab_tensorboard",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -331,7 +350,8 @@
             "repo": "ipywidgets",
             "stars": 3326
           },
-          "title": "jupyter-widgets / ipywidgets"
+          "title": "jupyter-widgets / ipywidgets",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -346,7 +366,8 @@
             "repo": "jupyterlab_voyager",
             "stars": 303
           },
-          "title": "Jupyterlab_voyager"
+          "title": "Jupyterlab_voyager",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -361,7 +382,8 @@
             "repo": "knowledgelab",
             "stars": 48
           },
-          "title": "knowledgelab"
+          "title": "knowledgelab",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -376,7 +398,8 @@
             "repo": "itkwidgets",
             "stars": 624
           },
-          "title": "itk-jupyter-widgets"
+          "title": "itk-jupyter-widgets",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -391,7 +414,8 @@
             "repo": "ipyp5",
             "stars": 42
           },
-          "title": "ipyp5"
+          "title": "ipyp5",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         }
       ],
       "title": "Read/Interact"
@@ -412,7 +436,8 @@
             "repo": "jupyterlab-sql",
             "stars": 429
           },
-          "title": "jupyterlab-sql"
+          "title": "jupyterlab-sql",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -427,7 +452,8 @@
             "repo": "jupyterlab-omnisci",
             "stars": 3
           },
-          "title": "jupyterlab-omnisci"
+          "title": "jupyterlab-omnisci",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         }
       ],
       "title": "Database"
@@ -446,9 +472,10 @@
             "last_commit": "2026-08-18T01:37:42Z",
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7232
+            "stars": 7234
           },
-          "title": "mwouts / jupytext"
+          "title": "mwouts / jupytext",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -463,7 +490,8 @@
             "repo": "jupyterlab-email",
             "stars": 61
           },
-          "title": "jupyterlab_email"
+          "title": "jupyterlab_email",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -478,7 +506,8 @@
             "repo": "jupyterlab-topbar",
             "stars": 6
           },
-          "title": "JupyterLab Top Bar"
+          "title": "JupyterLab Top Bar",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -493,7 +522,8 @@
             "repo": "jupyterlab-sos",
             "stars": 79
           },
-          "title": "jupyterlab-sos"
+          "title": "jupyterlab-sos",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -508,7 +538,8 @@
             "repo": "jupyterlab-commands",
             "stars": 63
           },
-          "title": "jupyterlab_commands"
+          "title": "jupyterlab_commands",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         }
       ],
       "title": "Tools"
@@ -529,7 +560,8 @@
             "repo": "jupyterlab_materialdarker",
             "stars": 170
           },
-          "title": "jupyterlab_materialdarker"
+          "title": "jupyterlab_materialdarker",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -544,7 +576,8 @@
             "repo": "Jupyter-Atom-Dark-Theme",
             "stars": 72
           },
-          "title": "Jupyter-Atom-Dark-Theme"
+          "title": "Jupyter-Atom-Dark-Theme",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -559,7 +592,8 @@
             "repo": "theme-darcula",
             "stars": 219
           },
-          "title": "@telamonian/theme-darcula"
+          "title": "@telamonian/theme-darcula",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -574,7 +608,8 @@
             "repo": "jupyterlab-gruvbox",
             "stars": 6
           },
-          "title": "jupyterlab-gruvbox"
+          "title": "jupyterlab-gruvbox",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         },
         {
           "children": [],
@@ -589,14 +624,15 @@
             "repo": "jlab-theme",
             "stars": 6
           },
-          "title": "JupyterLab AixViPMaP theme"
+          "title": "JupyterLab AixViPMaP theme",
+          "first_seen": "2026-08-28T11:40:11.719Z"
         }
       ],
       "title": "Theme"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:45:15.575Z",
+    "last_updated": "2026-08-28T11:40:11.719Z",
     "original_repository_info": {
       "archived": false,
       "id": 184920732,
