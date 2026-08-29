@@ -9,12 +9,31 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Tools for diffing and merging of Jupyter notebooks.",
+            "homepage": "http://nbdime.readthedocs.io",
             "id": 46264628,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-10T10:12:19Z",
+            "open_issues": 96,
             "owner": "jupyter",
             "repo": "nbdime",
-            "stars": 2841
+            "stars": 2841,
+            "topics": [
+              "diff",
+              "diffing",
+              "git",
+              "hg",
+              "jupyter",
+              "jupyter-notebook",
+              "jupyterlab-extension",
+              "mercurial",
+              "merge",
+              "merge-driver",
+              "mergetool",
+              "vcs",
+              "version-control"
+            ]
           },
           "title": "nbdime",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -31,12 +50,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "GitHub integration for JupyterLab",
+            "homepage": null,
             "id": 107032756,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-03-25T09:01:34Z",
+            "open_issues": 33,
             "owner": "jupyterlab",
             "repo": "jupyterlab-github",
-            "stars": 437
+            "stars": 437,
+            "topics": [
+              "git",
+              "github",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "title": "Github Extenion",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -47,12 +76,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Cloud storage for JupyterLab using Google Drive",
+            "homepage": null,
             "id": 76697406,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-08-03T16:55:22Z",
+            "open_issues": 0,
             "owner": "jupyterlab",
             "repo": "jupyterlab-google-drive",
-            "stars": 399
+            "stars": 399,
+            "topics": [
+              "google-drive",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "title": "jupyterlab-google-drive",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -63,12 +101,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Deprecated: JupyterLab extension for running JupyterLab with JupyterHub",
+            "homepage": null,
             "id": 71165991,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-07-09T11:23:46Z",
+            "open_issues": 26,
             "owner": "jupyterhub",
             "repo": "jupyterlab-hub",
-            "stars": 181
+            "stars": 181,
+            "topics": [
+              "jupyter",
+              "jupyterhub",
+              "jupyterhub-labextension",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "jupyterlab-hub"
+            ]
           },
           "title": "jupyterlab-hub",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -85,12 +135,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A JupyterLab plugin to facilitate invocation of code formatters.",
+            "homepage": "https://jupyterlab-code-formatter.readthedocs.io/",
             "id": 144499900,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-07T07:11:43Z",
+            "open_issues": 27,
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab_code_formatter",
-            "stars": 907
+            "stars": 907,
+            "topics": [
+              "autopep8",
+              "black",
+              "code-formatter",
+              "jupyterlab-extension",
+              "jupyterlab-extensions",
+              "python",
+              "r",
+              "yapf"
+            ]
           },
           "title": "jupyterlab_code_formatter",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -107,12 +171,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "GPU Environment Management for JupyterLab",
+            "homepage": null,
             "id": 539549415,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-02-19T11:37:31Z",
+            "open_issues": 6,
             "owner": "run-ai",
             "repo": "jupyterlab_genv",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "gpu",
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "title": "genv",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -129,12 +203,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": ":neckbeard: Vim notebook cell bindings for JupyterLab",
+            "homepage": null,
             "id": 112877413,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-04-05T12:21:41Z",
+            "open_issues": 70,
             "owner": "jwkvam",
             "repo": "jupyterlab-vim",
-            "stars": 981
+            "stars": 981,
+            "topics": [
+              "jupyterlab",
+              "jupyterlab-extension",
+              "jupyterlab-vim",
+              "vim"
+            ]
           },
           "title": "jupyterlab-vim",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -145,12 +229,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "JupyterLab extension for live editing of LaTeX documents",
+            "homepage": null,
             "id": 108065356,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-12-17T09:34:48Z",
+            "open_issues": 32,
             "owner": "jupyterlab",
             "repo": "jupyterlab-latex",
-            "stars": 686
+            "stars": 686,
+            "topics": [
+              "jupyterlab",
+              "jupyterlab-extension",
+              "latex",
+              "pdf"
+            ]
           },
           "title": "JupyterLab LaTeX",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -161,12 +255,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A standalone embedding of the FOSS drawio / mxgraph package into jupyterlab",
+            "homepage": null,
             "id": 119714147,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-07-25T13:25:21Z",
+            "open_issues": 54,
             "owner": "QuantStack",
             "repo": "jupyterlab-drawio",
-            "stars": 623
+            "stars": 623,
+            "topics": [
+              "jupyterlab-extension"
+            ]
           },
           "title": "Jupyterlab-drawio",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -177,12 +278,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "A JupyterLab extension providing the Monaco editor",
+            "homepage": null,
             "id": 129974975,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-08-08T06:48:44Z",
+            "open_issues": 0,
             "owner": "jupyterlab",
             "repo": "jupyterlab-monaco",
-            "stars": 240
+            "stars": 240,
+            "topics": [
+              "jupyterlab-extension"
+            ]
           },
           "title": "jupyterlab-monaco",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -193,12 +301,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Support for jupyter notebook templates in jupyterlab",
+            "homepage": "https://jupyterlab-templates.readthedocs.io",
             "id": 258549475,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-28T17:36:46Z",
+            "open_issues": 0,
             "owner": "timkpaine",
             "repo": "jupyterlab_templates",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "title": "jupyterlab_templates",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -209,12 +322,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Navigate to variable's definition with a click in JupyterLab (or with a few key strokes)",
+            "homepage": "https://www.npmjs.com/package/@krassowski/jupyterlab_go_to_definition",
             "id": 162771624,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-08-23T19:48:16Z",
+            "open_issues": 11,
             "owner": "krassowski",
             "repo": "jupyterlab-go-to-definition",
-            "stars": 226
+            "stars": 226,
+            "topics": [
+              "binder",
+              "binder-ready",
+              "go-to-definition",
+              "ide-features",
+              "jupyter-lab",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "python",
+              "r"
+            ]
           },
           "title": "jupyterlab-go-to-definition",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -225,12 +353,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Spellchecker for JupyterLab notebook markdown cells and file editor.",
+            "homepage": null,
             "id": 127723043,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-11T01:51:47Z",
+            "open_issues": 28,
             "owner": "jupyterlab-contrib",
             "repo": "spellchecker",
-            "stars": 212
+            "stars": 212,
+            "topics": [
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "title": "jupyterlab_spellchecker",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -241,12 +377,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Spark Application UI extension for JupyterLab",
+            "homepage": null,
             "id": 182369714,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-05T13:13:14Z",
+            "open_issues": 2,
             "owner": "manuzhang",
             "repo": "jupyterlab_spark",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "jupyterlab",
+              "jupyterlab-extension",
+              "spark",
+              "typescript"
+            ]
           },
           "title": "jupyterlab_spark",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -263,12 +409,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Table of Contents extension for JupyterLab",
+            "homepage": null,
             "id": 124914240,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-07-07T04:18:47Z",
+            "open_issues": 75,
             "owner": "jupyterlab",
             "repo": "jupyterlab-toc",
-            "stars": 728
+            "stars": 728,
+            "topics": [
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "title": "Jupyterlab-toc",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -279,12 +434,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "An Extension for the Interactive development of Dash apps in JupyterLab",
+            "homepage": null,
             "id": 156599813,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-29T05:16:04Z",
+            "open_issues": 27,
             "owner": "plotly",
             "repo": "jupyterlab-dash",
-            "stars": 362
+            "stars": 362,
+            "topics": [
+              "dash",
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "plotly-dash"
+            ]
           },
           "title": "jupyterlab-dash",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -295,12 +461,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Renderers and renderer extensions for JupyterLab",
+            "homepage": null,
             "id": 93772766,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-03-04T00:15:50Z",
+            "open_issues": 46,
             "owner": "jupyterlab",
             "repo": "jupyter-renderers",
-            "stars": 517
+            "stars": 517,
+            "topics": [
+              "fasta",
+              "geojson",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "katex",
+              "plotly",
+              "vega",
+              "vega-lite"
+            ]
           },
           "title": "jupyter-renderers",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -311,12 +491,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Matplotlib Jupyter Integration",
+            "homepage": "https://matplotlib.org/ipympl/",
             "id": 63877123,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-31T12:18:52Z",
+            "open_issues": 169,
             "owner": "matplotlib",
             "repo": "ipympl",
-            "stars": 1657
+            "stars": 1657,
+            "topics": [
+              "interactive",
+              "ipywidgets",
+              "jupyter-widgets",
+              "jupyterlab-extension",
+              "matplotlib"
+            ]
           },
           "title": "jupyter-matplotlib",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -327,12 +518,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Tensorboard extension for jupyterlab.",
+            "homepage": null,
             "id": 144718023,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-07-21T07:29:55Z",
+            "open_issues": 25,
             "owner": "chesterli29",
             "repo": "jupyterlab_tensorboard",
-            "stars": 312
+            "stars": 312,
+            "topics": [
+              "jupyterlab",
+              "jupyterlab-extension",
+              "tensorboard"
+            ]
           },
           "title": "jupyterlab_tensorboard",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -343,12 +543,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Interactive Widgets for the Jupyter Notebook",
+            "homepage": "https://ipywidgets.readthedocs.io",
             "id": 34138622,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-19T07:43:12Z",
+            "open_issues": 798,
             "owner": "jupyter-widgets",
             "repo": "ipywidgets",
-            "stars": 3326
+            "stars": 3326,
+            "topics": [
+              "jupyter-notebooks",
+              "jupyterlab-extension"
+            ]
           },
           "title": "jupyter-widgets / ipywidgets",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -359,12 +567,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "JupyterLab extension visualize data with Voyager",
+            "homepage": null,
             "id": 101495888,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-12-06T19:48:00Z",
+            "open_issues": 63,
             "owner": "altair-viz",
             "repo": "jupyterlab_voyager",
-            "stars": 303
+            "stars": 303,
+            "topics": [
+              "jupyterlab",
+              "jupyterlab-extension",
+              "vega"
+            ]
           },
           "title": "Jupyterlab_voyager",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -375,12 +592,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "KnowledgeRepo + JupyterLab",
+            "homepage": null,
             "id": 107341993,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T16:24:52Z",
+            "open_issues": 2,
             "owner": "tkp-archive",
             "repo": "knowledgelab",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "title": "knowledgelab",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -391,12 +617,35 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "An elegant Python interface for visualization on the web platform to interactively generate insights into multidimensional images, point sets, and geometry.",
+            "homepage": "https://itkwidgets.readthedocs.io/",
             "id": 121581663,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-10T21:02:03Z",
+            "open_issues": 128,
             "owner": "InsightSoftwareConsortium",
             "repo": "itkwidgets",
-            "stars": 624
+            "stars": 624,
+            "topics": [
+              "image-analysis",
+              "imaging",
+              "insight-toolkit",
+              "itk",
+              "jupyter",
+              "jupyter-widget",
+              "jupyterlab-extension",
+              "kitware",
+              "medical-visualization",
+              "meshes",
+              "open-science",
+              "open-source",
+              "point-cloud",
+              "python",
+              "reproducible-research",
+              "scientific-computing",
+              "scientific-visualization"
+            ]
           },
           "title": "itk-jupyter-widgets",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -407,12 +656,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "p5.js Jupyter Widget",
+            "homepage": null,
             "id": 124116426,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-01-04T06:51:10Z",
+            "open_issues": 17,
             "owner": "jtpio",
             "repo": "ipyp5",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "jupyter",
+              "jupyter-widget",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "title": "ipyp5",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -429,12 +688,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "SQL GUI for JupyterLab",
+            "homepage": null,
             "id": 168674852,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-05T04:02:41Z",
+            "open_issues": 57,
             "owner": "pbugnion",
             "repo": "jupyterlab-sql",
-            "stars": 429
+            "stars": 429,
+            "topics": [
+              "database",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "sql"
+            ]
           },
           "title": "jupyterlab-sql",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -445,12 +714,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Omnisci integrations for JupyterLab",
+            "homepage": null,
             "id": 205287794,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2019-08-29T23:59:17Z",
+            "open_issues": 0,
             "owner": "Quansight",
             "repo": "jupyterlab-omnisci",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "title": "jupyterlab-omnisci",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -467,12 +741,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts",
+            "homepage": "https://jupytext.org/",
             "id": 137444487,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T01:37:42Z",
+            "open_issues": 171,
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7234
+            "stars": 7235,
+            "topics": [
+              "hydrogen",
+              "jupyter-notebook",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "knitr",
+              "markdown",
+              "notebooks",
+              "python",
+              "rmarkdown",
+              "rstudio",
+              "version-control"
+            ]
           },
           "title": "mwouts / jupytext",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -483,12 +774,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A jupyterlab extension to email notebooks directly from JupyterLab.",
+            "homepage": null,
             "id": 143883226,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T15:15:49Z",
+            "open_issues": 2,
             "owner": "timkpaine",
             "repo": "jupyterlab-email",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "email",
+              "email-notebooks",
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "title": "jupyterlab_email",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -499,12 +801,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "JupyterLab Top Bar extension",
+            "homepage": null,
             "id": 372574371,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-02-23T12:48:27Z",
+            "open_issues": 0,
             "owner": "jtpio",
             "repo": "jupyterlab-topbar",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "title": "JupyterLab Top Bar",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -515,12 +822,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Jupyterlab extension for SoS Polyglot Notebook and Workflow Engine, allows multiple kernels in one notebook",
+            "homepage": "http://vatlab.github.io/sos-docs",
             "id": 126045432,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-02-07T16:32:11Z",
+            "open_issues": 23,
             "owner": "vatlab",
             "repo": "jupyterlab-sos",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "jupyterlab-extension"
+            ]
           },
           "title": "jupyterlab-sos",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -531,12 +845,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Add arbitrary python commands to the jupyterlab command palette",
+            "homepage": "https://jupyterlab-commands.readthedocs.io",
             "id": 143177684,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T16:20:56Z",
+            "open_issues": 1,
             "owner": "timkpaine",
             "repo": "jupyterlab-commands",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "title": "jupyterlab_commands",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -553,12 +876,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The Material Darker theme for JupyterLab",
+            "homepage": null,
             "id": 124306749,
             "language": "CSS",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-01-04T02:28:12Z",
+            "open_issues": 6,
             "owner": "oriolmirosa",
             "repo": "jupyterlab_materialdarker",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "jupyterlab",
+              "jupyterlab-extension",
+              "material-theme",
+              "theme"
+            ]
           },
           "title": "jupyterlab_materialdarker",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -569,12 +902,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A dark theme for Jupyter Lab",
+            "homepage": null,
             "id": 137575263,
             "language": "CSS",
+            "license": null,
             "last_commit": "2020-01-23T23:18:10Z",
+            "open_issues": 4,
             "owner": "burglarbenson",
             "repo": "Jupyter-Atom-Dark-Theme",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "ipython",
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
           },
           "title": "Jupyter-Atom-Dark-Theme",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -585,12 +928,30 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A handsome Darcula theme for Jupyterlab. The first jlab theme to include dark scrollbars",
+            "homepage": null,
             "id": 166749179,
             "language": "CSS",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-06-06T08:38:20Z",
+            "open_issues": 22,
             "owner": "telamonian",
             "repo": "theme-darcula",
-            "stars": 219
+            "stars": 219,
+            "topics": [
+              "darcula",
+              "darcula-theme",
+              "dark-scrollbars",
+              "jupyter",
+              "jupyter-theme",
+              "jupyterlab",
+              "jupyterlab-2",
+              "jupyterlab-3",
+              "jupyterlab-4",
+              "jupyterlab-extension",
+              "jupyterlab-theme",
+              "theme"
+            ]
           },
           "title": "@telamonian/theme-darcula",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -601,12 +962,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Gruvbox theme for JupyterLab",
+            "homepage": null,
             "id": 143407549,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2019-09-29T15:52:17Z",
+            "open_issues": 2,
             "owner": "theodcr",
             "repo": "jupyterlab-gruvbox",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "gruvbox",
+              "gruvbox-dark",
+              "gruvbox-theme",
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "theme"
+            ]
           },
           "title": "jupyterlab-gruvbox",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -617,12 +991,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "JupyterLab AixViPMaP theme",
+            "homepage": null,
             "id": 136575207,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2018-11-08T15:38:14Z",
+            "open_issues": 1,
             "owner": "AixViPMaP",
             "repo": "jlab-theme",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "jupyterlab-extension"
+            ]
           },
           "title": "JupyterLab AixViPMaP theme",
           "first_seen": "2026-08-28T11:40:11.719Z"
@@ -632,15 +1013,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:40:11.719Z",
+    "last_updated": "2026-08-29T04:49:14.085Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
+      "homepage": "http://data2art.com/Jupyterlab-en.html",
       "id": 184920732,
       "language": null,
+      "license": null,
       "last_commit": "2022-11-10T06:37:26Z",
+      "open_issues": 2,
       "owner": "Yogayu",
       "repo": "awesome-jupyterlab-extension",
-      "stars": 262
+      "stars": 262,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "jupyter",
+        "jupyterlab",
+        "jupyterlab-extension",
+        "jupyterlab-extensions",
+        "notebook"
+      ]
     },
     "original_repository_sha": "491f219965da5d6df65114393a8b116ae78c3dc7",
     "enhanced_repository": "enhansome/enhansome-jupyterlab-extension",
