@@ -746,8 +746,8 @@
             "id": 137444487,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-18T01:37:42Z",
-            "open_issues": 171,
+            "last_commit": "2026-09-01T05:11:55Z",
+            "open_issues": 170,
             "owner": "jupytext",
             "repo": "jupytext",
             "stars": 7237,
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T05:56:09.474Z",
+    "last_updated": "2026-09-01T05:29:41.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
