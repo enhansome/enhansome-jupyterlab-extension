@@ -552,7 +552,7 @@
             "open_issues": 801,
             "owner": "jupyter-widgets",
             "repo": "ipywidgets",
-            "stars": 3327,
+            "stars": 3326,
             "topics": [
               "jupyter-notebooks",
               "jupyterlab-extension"
@@ -746,8 +746,8 @@
             "id": 137444487,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-01T21:58:17Z",
-            "open_issues": 169,
+            "last_commit": "2026-09-02T08:22:07Z",
+            "open_issues": 168,
             "owner": "jupytext",
             "repo": "jupytext",
             "stars": 7239,
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T04:55:40.758Z",
+    "last_updated": "2026-09-03T04:53:00.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
