@@ -144,7 +144,7 @@
             "open_issues": 27,
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab_code_formatter",
-            "stars": 907,
+            "stars": 906,
             "topics": [
               "autopep8",
               "black",
@@ -212,7 +212,7 @@
             "open_issues": 70,
             "owner": "jwkvam",
             "repo": "jupyterlab-vim",
-            "stars": 981,
+            "stars": 980,
             "topics": [
               "jupyterlab",
               "jupyterlab-extension",
@@ -358,11 +358,11 @@
             "id": 127723043,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-11T01:51:47Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-03T18:22:14Z",
+            "open_issues": 29,
             "owner": "jupyterlab-contrib",
             "repo": "spellchecker",
-            "stars": 212,
+            "stars": 211,
             "topics": [
               "jupyterlab",
               "jupyterlab-extension"
@@ -597,7 +597,7 @@
             "id": 107341993,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-11T16:24:52Z",
+            "last_commit": "2026-09-04T01:12:12Z",
             "open_issues": 2,
             "owner": "tkp-archive",
             "repo": "knowledgelab",
@@ -747,7 +747,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-02T08:22:07Z",
-            "open_issues": 168,
+            "open_issues": 169,
             "owner": "jupytext",
             "repo": "jupytext",
             "stars": 7239,
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T04:53:00.332Z",
+    "last_updated": "2026-09-04T04:56:41.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
