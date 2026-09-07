@@ -552,7 +552,7 @@
             "open_issues": 801,
             "owner": "jupyter-widgets",
             "repo": "ipywidgets",
-            "stars": 3327,
+            "stars": 3328,
             "topics": [
               "jupyter-notebooks",
               "jupyterlab-extension"
@@ -750,7 +750,7 @@
             "open_issues": 169,
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7239,
+            "stars": 7241,
             "topics": [
               "hydrogen",
               "jupyter-notebook",
@@ -779,7 +779,7 @@
             "id": 143883226,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T00:04:46Z",
+            "last_commit": "2026-09-06T17:52:54Z",
             "open_issues": 2,
             "owner": "timkpaine",
             "repo": "jupyterlab-email",
@@ -850,7 +850,7 @@
             "id": 143177684,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T17:19:07Z",
+            "last_commit": "2026-09-06T17:52:51Z",
             "open_issues": 1,
             "owner": "timkpaine",
             "repo": "jupyterlab-commands",
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T04:58:12.440Z",
+    "last_updated": "2026-09-07T05:04:26.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
