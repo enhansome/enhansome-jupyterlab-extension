@@ -77,7 +77,7 @@ A JupyterLab extension for version control using git.
 
 ![draw](media/git.gif)
 
-### [nbdime](https://github.com/jupyter/nbdime) ⭐ 2,841 | 🐛 98 | 🌐 TypeScript | 📅 2026-06-10
+### [nbdime](https://github.com/jupyter/nbdime) ⭐ 2,842 | 🐛 98 | 🌐 TypeScript | 📅 2026-06-10
 
 Tools for diffing and merging of Jupyter notebooks.
 
@@ -189,7 +189,7 @@ An Extension for the Interactive development of Dash apps in JupyterLab
 
 ### [jupyter-renderers](https://github.com/jupyterlab/jupyter-renderers) ⭐ 517 | 🐛 46 | 🌐 HTML | 📅 2026-03-04
 
-This is a [monorepo](https://github.com/lerna/lerna#what-does-a-lerna-repo-look-like) ⭐ 36,057 | 🐛 288 | 🌐 TypeScript | 📅 2026-09-06 that consists of generic renderers for common file types and mime types as well as renderer extensions for [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,287 | 🐛 2,612 | 🌐 TypeScript | 📅 2026-09-04.
+This is a [monorepo](https://github.com/lerna/lerna#what-does-a-lerna-repo-look-like) ⭐ 36,055 | 🐛 285 | 🌐 TypeScript | 📅 2026-09-07 that consists of generic renderers for common file types and mime types as well as renderer extensions for [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,289 | 🐛 2,613 | 🌐 TypeScript | 📅 2026-09-07.
 
 ### [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib) ⭐ 1,657 | 🐛 169 | 🌐 Jupyter Notebook | 📅 2026-07-31
 
@@ -223,7 +223,7 @@ Making GUIs easy for everyone on your team. The primary benefit is that front en
 
 ### [knowledgelab](https://github.com/timkpaine/knowledgelab) ⭐ 48 | 🐛 2 | 🌐 Python | 📅 2026-09-04
 
-Seamless integration of [Knowledge-Repo](https://github.com/airbnb/knowledge-repo) ⭐ 5,538 | 🐛 137 | 🌐 Python | 📅 2024-09-04 and [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,287 | 🐛 2,612 | 🌐 TypeScript | 📅 2026-09-04. The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles using data formats and tools that make sense in these professions.
+Seamless integration of [Knowledge-Repo](https://github.com/airbnb/knowledge-repo) ⭐ 5,538 | 🐛 137 | 🌐 Python | 📅 2024-09-04 and [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,289 | 🐛 2,613 | 🌐 TypeScript | 📅 2026-09-07. The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles using data formats and tools that make sense in these professions.
 
 ![Main Feed](https://user-images.githubusercontent.com/124910/37555895-d6ad133a-2a42-11e8-9bb5-1b7ee8d60ef9.png)
 
@@ -259,7 +259,7 @@ Connect to OmniSci, query their databases, and render the OmniSci-flavored Vega 
 
 ## Tools
 
-### [mwouts / jupytext](https://github.com/mwouts/jupytext) ⭐ 7,241 | 🐛 169 | 🌐 Python | 📅 2026-09-05
+### [mwouts / jupytext](https://github.com/mwouts/jupytext) ⭐ 7,243 | 🐛 171 | 🌐 Python | 📅 2026-09-08
 
 Jupyter notebooks as Markdown documents, Julia, Python or R scripts.
 
@@ -269,7 +269,7 @@ A jupyterlab extension to email notebooks from the browser.
 
 ### [JupyterLab Top Bar](https://github.com/jtpio/jupyterlab-topbar) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2024-02-23
 
-Monorepo to experiment with the top bar space in JupyterLab. Similar to the [status bar](https://github.com/jupyterlab/jupyterlab/tree/master/packages/statusbar-extension) ⭐ 15,287 | 🐛 2,612 | 🌐 TypeScript | 📅 2026-09-04, the top bar can be used to place a few indicators and optimize the overall space.
+Monorepo to experiment with the top bar space in JupyterLab. Similar to the [status bar](https://github.com/jupyterlab/jupyterlab/tree/master/packages/statusbar-extension) ⭐ 15,289 | 🐛 2,613 | 🌐 TypeScript | 📅 2026-09-07, the top bar can be used to place a few indicators and optimize the overall space.
 
 ![screenshot](https://github.com/jtpio/jupyterlab-topbar/raw/master/doc/screenshot.png)
 
@@ -332,4 +332,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
