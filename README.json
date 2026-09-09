@@ -358,7 +358,7 @@
             "id": 127723043,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-03T18:22:14Z",
+            "last_commit": "2026-09-09T02:17:19Z",
             "open_issues": 29,
             "owner": "jupyterlab-contrib",
             "repo": "spellchecker",
@@ -500,7 +500,7 @@
             "open_issues": 169,
             "owner": "matplotlib",
             "repo": "ipympl",
-            "stars": 1657,
+            "stars": 1658,
             "topics": [
               "interactive",
               "ipywidgets",
@@ -549,7 +549,7 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-19T07:43:12Z",
-            "open_issues": 801,
+            "open_issues": 802,
             "owner": "jupyter-widgets",
             "repo": "ipywidgets",
             "stars": 3328,
@@ -746,8 +746,8 @@
             "id": 137444487,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-08T01:52:07Z",
-            "open_issues": 171,
+            "last_commit": "2026-09-08T05:25:17Z",
+            "open_issues": 168,
             "owner": "jupytext",
             "repo": "jupytext",
             "stars": 7243,
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T05:01:31.624Z",
+    "last_updated": "2026-09-09T05:01:23.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
