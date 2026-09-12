@@ -310,7 +310,7 @@
             "open_issues": 0,
             "owner": "timkpaine",
             "repo": "jupyterlab_templates",
-            "stars": 26,
+            "stars": 27,
             "topics": []
           },
           "title": "jupyterlab_templates",
@@ -746,11 +746,11 @@
             "id": 137444487,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T06:58:53Z",
-            "open_issues": 169,
+            "last_commit": "2026-09-11T09:26:54Z",
+            "open_issues": 170,
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7243,
+            "stars": 7244,
             "topics": [
               "hydrogen",
               "jupyter-notebook",
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T05:00:51.458Z",
+    "last_updated": "2026-09-12T04:52:55.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
