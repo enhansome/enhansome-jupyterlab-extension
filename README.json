@@ -238,7 +238,7 @@
             "open_issues": 32,
             "owner": "jupyterlab",
             "repo": "jupyterlab-latex",
-            "stars": 686,
+            "stars": 685,
             "topics": [
               "jupyterlab",
               "jupyterlab-extension",
@@ -746,11 +746,11 @@
             "id": 137444487,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T09:26:54Z",
-            "open_issues": 170,
+            "last_commit": "2026-09-15T01:38:00Z",
+            "open_issues": 171,
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7245,
+            "stars": 7246,
             "topics": [
               "hydrogen",
               "jupyter-notebook",
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T05:18:20.910Z",
+    "last_updated": "2026-09-15T05:10:13.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
