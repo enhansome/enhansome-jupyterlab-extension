@@ -750,7 +750,7 @@
             "open_issues": 167,
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7246,
+            "stars": 7247,
             "topics": [
               "hydrogen",
               "jupyter-notebook",
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T05:05:24.942Z",
+    "last_updated": "2026-09-17T05:08:26.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
