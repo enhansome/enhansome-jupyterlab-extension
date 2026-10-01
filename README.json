@@ -500,7 +500,7 @@
             "open_issues": 169,
             "owner": "matplotlib",
             "repo": "ipympl",
-            "stars": 1659,
+            "stars": 1658,
             "topics": [
               "interactive",
               "ipywidgets",
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T05:50:07.871Z",
+    "last_updated": "2026-10-01T06:22:58.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
