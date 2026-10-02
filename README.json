@@ -358,7 +358,7 @@
             "id": 127723043,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-09T02:17:19Z",
+            "last_commit": "2026-10-01T10:09:43Z",
             "open_issues": 29,
             "owner": "jupyterlab-contrib",
             "repo": "spellchecker",
@@ -779,7 +779,7 @@
             "id": 143883226,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T13:55:59Z",
+            "last_commit": "2026-10-02T00:04:04Z",
             "open_issues": 2,
             "owner": "timkpaine",
             "repo": "jupyterlab-email",
@@ -850,7 +850,7 @@
             "id": 143177684,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T13:58:00Z",
+            "last_commit": "2026-10-01T18:24:55Z",
             "open_issues": 1,
             "owner": "timkpaine",
             "repo": "jupyterlab-commands",
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T06:22:58.211Z",
+    "last_updated": "2026-10-02T06:00:18.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
