@@ -443,7 +443,7 @@
             "open_issues": 27,
             "owner": "plotly",
             "repo": "jupyterlab-dash",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "dash",
               "jupyter",
@@ -750,7 +750,7 @@
             "open_issues": 161,
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7259,
+            "stars": 7260,
             "topics": [
               "hydrogen",
               "jupyter-notebook",
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T06:43:24.136Z",
+    "last_updated": "2026-10-06T10:43:20.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
