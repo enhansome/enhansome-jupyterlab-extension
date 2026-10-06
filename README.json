@@ -18,7 +18,7 @@
             "open_issues": 98,
             "owner": "jupyter",
             "repo": "nbdime",
-            "stars": 2843,
+            "stars": 2844,
             "topics": [
               "diff",
               "diffing",
@@ -443,7 +443,7 @@
             "open_issues": 27,
             "owner": "plotly",
             "repo": "jupyterlab-dash",
-            "stars": 362,
+            "stars": 361,
             "topics": [
               "dash",
               "jupyter",
@@ -552,7 +552,7 @@
             "open_issues": 805,
             "owner": "jupyter-widgets",
             "repo": "ipywidgets",
-            "stars": 3333,
+            "stars": 3334,
             "topics": [
               "jupyter-notebooks",
               "jupyterlab-extension"
@@ -597,8 +597,8 @@
             "id": 107341993,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T19:44:23Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-05T23:05:22Z",
+            "open_issues": 2,
             "owner": "tkp-archive",
             "repo": "knowledgelab",
             "stars": 48,
@@ -746,11 +746,11 @@
             "id": 137444487,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-04T20:57:13Z",
-            "open_issues": 160,
+            "last_commit": "2026-10-06T05:40:11Z",
+            "open_issues": 161,
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7255,
+            "stars": 7259,
             "topics": [
               "hydrogen",
               "jupyter-notebook",
@@ -779,8 +779,8 @@
             "id": 143883226,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T11:08:03Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-05T23:13:04Z",
+            "open_issues": 2,
             "owner": "timkpaine",
             "repo": "jupyterlab-email",
             "stars": 61,
@@ -850,8 +850,8 @@
             "id": 143177684,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T11:07:55Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-05T22:02:17Z",
+            "open_issues": 1,
             "owner": "timkpaine",
             "repo": "jupyterlab-commands",
             "stars": 63,
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T06:03:55.164Z",
+    "last_updated": "2026-10-06T06:43:24.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
