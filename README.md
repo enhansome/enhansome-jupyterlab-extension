@@ -131,11 +131,11 @@ Vim notebook cell bindings for JupyterLab.
 
 ![View](https://user-images.githubusercontent.com/86304/38079432-b7596fd8-32f3-11e8-9ebd-4b9e7823f5f9.gif)
 
-### [JupyterLab LaTeX](https://github.com/jupyterlab/jupyterlab-latex) ⭐ 683 | 🐛 31 | 🌐 TypeScript | 📅 2025-12-17
+### [JupyterLab LaTeX](https://github.com/jupyterlab/jupyterlab-latex) ⭐ 684 | 🐛 31 | 🌐 TypeScript | 📅 2025-12-17
 
 An extension for JupyterLab which allows for live-editing of LaTeX documents.
 
-[Latex](https://github.com/jupyterlab/jupyterlab-latex/raw/master/images/show_preview.png) ⭐ 683 | 🐛 31 | 🌐 TypeScript | 📅 2025-12-17
+[Latex](https://github.com/jupyterlab/jupyterlab-latex/raw/master/images/show_preview.png) ⭐ 684 | 🐛 31 | 🌐 TypeScript | 📅 2025-12-17
 
 ### [Jupyterlab-drawio](https://github.com/QuantStack/jupyterlab-drawio) ⭐ 623 | 🐛 54 | 🌐 JavaScript | 📅 2024-07-25
 
@@ -189,7 +189,7 @@ An Extension for the Interactive development of Dash apps in JupyterLab
 
 ### [jupyter-renderers](https://github.com/jupyterlab/jupyter-renderers) ⭐ 517 | 🐛 46 | 🌐 HTML | 📅 2026-03-04
 
-This is a [monorepo](https://github.com/lerna/lerna#what-does-a-lerna-repo-look-like) ⭐ 36,041 | 🐛 288 | 🌐 TypeScript | 📅 2026-10-11 that consists of generic renderers for common file types and mime types as well as renderer extensions for [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,353 | 🐛 2,638 | 🌐 TypeScript | 📅 2026-10-09.
+This is a [monorepo](https://github.com/lerna/lerna#what-does-a-lerna-repo-look-like) ⭐ 36,041 | 🐛 288 | 🌐 TypeScript | 📅 2026-10-11 that consists of generic renderers for common file types and mime types as well as renderer extensions for [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,354 | 🐛 2,640 | 🌐 TypeScript | 📅 2026-10-09.
 
 ### [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib) ⭐ 1,659 | 🐛 170 | 🌐 Jupyter Notebook | 📅 2026-07-31
 
@@ -223,7 +223,7 @@ Making GUIs easy for everyone on your team. The primary benefit is that front en
 
 ### [knowledgelab](https://github.com/timkpaine/knowledgelab) ⭐ 48 | 🐛 2 | 🌐 Python | 📅 2026-10-05
 
-Seamless integration of [Knowledge-Repo](https://github.com/airbnb/knowledge-repo) ⚠️ Archived and [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,353 | 🐛 2,638 | 🌐 TypeScript | 📅 2026-10-09. The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles using data formats and tools that make sense in these professions.
+Seamless integration of [Knowledge-Repo](https://github.com/airbnb/knowledge-repo) ⚠️ Archived and [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,354 | 🐛 2,640 | 🌐 TypeScript | 📅 2026-10-09. The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles using data formats and tools that make sense in these professions.
 
 ![Main Feed](https://user-images.githubusercontent.com/124910/37555895-d6ad133a-2a42-11e8-9bb5-1b7ee8d60ef9.png)
 
@@ -259,17 +259,17 @@ Connect to OmniSci, query their databases, and render the OmniSci-flavored Vega 
 
 ## Tools
 
-### [mwouts / jupytext](https://github.com/mwouts/jupytext) ⭐ 7,263 | 🐛 161 | 🌐 Python | 📅 2026-10-10
+### [mwouts / jupytext](https://github.com/mwouts/jupytext) ⭐ 7,264 | 🐛 162 | 🌐 Python | 📅 2026-10-10
 
 Jupyter notebooks as Markdown documents, Julia, Python or R scripts.
 
-### [jupyterlab\_email](https://github.com/timkpaine/jupyterlab_email) ⭐ 61 | 🐛 2 | 🌐 Python | 📅 2026-10-06
+### [jupyterlab\_email](https://github.com/timkpaine/jupyterlab_email) ⭐ 61 | 🐛 2 | 🌐 Python | 📅 2026-10-11
 
 A jupyterlab extension to email notebooks from the browser.
 
 ### [JupyterLab Top Bar](https://github.com/jtpio/jupyterlab-topbar) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2024-02-23
 
-Monorepo to experiment with the top bar space in JupyterLab. Similar to the [status bar](https://github.com/jupyterlab/jupyterlab/tree/master/packages/statusbar-extension) ⭐ 15,353 | 🐛 2,638 | 🌐 TypeScript | 📅 2026-10-09, the top bar can be used to place a few indicators and optimize the overall space.
+Monorepo to experiment with the top bar space in JupyterLab. Similar to the [status bar](https://github.com/jupyterlab/jupyterlab/tree/master/packages/statusbar-extension) ⭐ 15,354 | 🐛 2,640 | 🌐 TypeScript | 📅 2026-10-09, the top bar can be used to place a few indicators and optimize the overall space.
 
 ![screenshot](https://github.com/jtpio/jupyterlab-topbar/raw/master/doc/screenshot.png)
 
@@ -279,7 +279,7 @@ Monorepo to experiment with the top bar space in JupyterLab. Similar to the [sta
 
 Jupyterlab extension for SoS Polyglot Notebook and Workflow Engine, allows multiple kernels in one notebook.
 
-### [jupyterlab\_commands](https://github.com/timkpaine/jupyterlab_commands) ⭐ 63 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-06
+### [jupyterlab\_commands](https://github.com/timkpaine/jupyterlab_commands) ⭐ 63 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-11
 
 Support for arbitrary python commands in the command palette.
 
@@ -332,4 +332,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
