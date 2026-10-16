@@ -212,7 +212,7 @@
             "open_issues": 70,
             "owner": "jwkvam",
             "repo": "jupyterlab-vim",
-            "stars": 981,
+            "stars": 980,
             "topics": [
               "jupyterlab",
               "jupyterlab-extension",
@@ -500,7 +500,7 @@
             "open_issues": 170,
             "owner": "matplotlib",
             "repo": "ipympl",
-            "stars": 1660,
+            "stars": 1661,
             "topics": [
               "interactive",
               "ipywidgets",
@@ -746,8 +746,8 @@
             "id": 137444487,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-14T12:31:55Z",
-            "open_issues": 165,
+            "last_commit": "2026-10-15T05:39:08Z",
+            "open_issues": 163,
             "owner": "jupytext",
             "repo": "jupytext",
             "stars": 7266,
@@ -783,7 +783,7 @@
             "open_issues": 2,
             "owner": "timkpaine",
             "repo": "jupyterlab-email",
-            "stars": 61,
+            "stars": 60,
             "topics": [
               "email",
               "email-notebooks",
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T05:00:41.104Z",
+    "last_updated": "2026-10-16T04:50:40.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
