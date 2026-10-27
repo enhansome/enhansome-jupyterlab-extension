@@ -18,7 +18,7 @@
             "open_issues": 98,
             "owner": "jupyter",
             "repo": "nbdime",
-            "stars": 2845,
+            "stars": 2846,
             "topics": [
               "diff",
               "diffing",
@@ -746,8 +746,8 @@
             "id": 137444487,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T13:32:18Z",
-            "open_issues": 161,
+            "last_commit": "2026-10-27T01:37:24Z",
+            "open_issues": 163,
             "owner": "jupytext",
             "repo": "jupytext",
             "stars": 7276,
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T05:09:29.168Z",
+    "last_updated": "2026-10-27T05:24:27.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
