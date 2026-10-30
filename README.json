@@ -500,7 +500,7 @@
             "open_issues": 170,
             "owner": "matplotlib",
             "repo": "ipympl",
-            "stars": 1661,
+            "stars": 1660,
             "topics": [
               "interactive",
               "ipywidgets",
@@ -747,7 +747,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-27T01:37:24Z",
-            "open_issues": 163,
+            "open_issues": 164,
             "owner": "jupytext",
             "repo": "jupytext",
             "stars": 7276,
@@ -850,8 +850,8 @@
             "id": 143177684,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T14:51:36Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-30T05:35:15Z",
+            "open_issues": 2,
             "owner": "timkpaine",
             "repo": "jupyterlab-commands",
             "stars": 63,
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T06:15:21.417Z",
+    "last_updated": "2026-10-30T06:15:59.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
