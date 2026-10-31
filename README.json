@@ -15,7 +15,7 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-06-10T10:12:19Z",
-            "open_issues": 98,
+            "open_issues": 100,
             "owner": "jupyter",
             "repo": "nbdime",
             "stars": 2846,
@@ -750,7 +750,7 @@
             "open_issues": 164,
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7276,
+            "stars": 7277,
             "topics": [
               "hydrogen",
               "jupyter-notebook",
@@ -850,8 +850,8 @@
             "id": 143177684,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T05:35:15Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-30T14:38:58Z",
+            "open_issues": 1,
             "owner": "timkpaine",
             "repo": "jupyterlab-commands",
             "stars": 63,
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T06:15:59.139Z",
+    "last_updated": "2026-10-31T06:07:49.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
