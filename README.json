@@ -362,7 +362,7 @@
             "open_issues": 30,
             "owner": "jupyterlab-contrib",
             "repo": "spellchecker",
-            "stars": 211,
+            "stars": 212,
             "topics": [
               "jupyterlab",
               "jupyterlab-extension"
@@ -500,7 +500,7 @@
             "open_issues": 170,
             "owner": "matplotlib",
             "repo": "ipympl",
-            "stars": 1661,
+            "stars": 1662,
             "topics": [
               "interactive",
               "ipywidgets",
@@ -750,7 +750,7 @@
             "open_issues": 166,
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7279,
+            "stars": 7280,
             "topics": [
               "hydrogen",
               "jupyter-notebook",
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T07:07:35.976Z",
+    "last_updated": "2026-11-04T06:52:57.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
