@@ -15,7 +15,7 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-06-10T10:12:19Z",
-            "open_issues": 100,
+            "open_issues": 104,
             "owner": "jupyter",
             "repo": "nbdime",
             "stars": 2847,
@@ -144,7 +144,7 @@
             "open_issues": 27,
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab_code_formatter",
-            "stars": 908,
+            "stars": 907,
             "topics": [
               "autopep8",
               "black",
@@ -500,7 +500,7 @@
             "open_issues": 170,
             "owner": "matplotlib",
             "repo": "ipympl",
-            "stars": 1662,
+            "stars": 1661,
             "topics": [
               "interactive",
               "ipywidgets",
@@ -747,10 +747,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-04T18:35:50Z",
-            "open_issues": 167,
+            "open_issues": 168,
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7279,
+            "stars": 7280,
             "topics": [
               "hydrogen",
               "jupyter-notebook",
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T07:11:44.223Z",
+    "last_updated": "2026-11-07T06:24:21.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
