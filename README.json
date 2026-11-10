@@ -144,7 +144,7 @@
             "open_issues": 27,
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab_code_formatter",
-            "stars": 907,
+            "stars": 908,
             "topics": [
               "autopep8",
               "black",
@@ -238,7 +238,7 @@
             "open_issues": 31,
             "owner": "jupyterlab",
             "repo": "jupyterlab-latex",
-            "stars": 684,
+            "stars": 685,
             "topics": [
               "jupyterlab",
               "jupyterlab-extension",
@@ -549,7 +549,7 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-19T07:43:12Z",
-            "open_issues": 809,
+            "open_issues": 810,
             "owner": "jupyter-widgets",
             "repo": "ipywidgets",
             "stars": 3337,
@@ -626,7 +626,7 @@
             "open_issues": 127,
             "owner": "InsightSoftwareConsortium",
             "repo": "itkwidgets",
-            "stars": 624,
+            "stars": 625,
             "topics": [
               "image-analysis",
               "imaging",
@@ -746,7 +746,7 @@
             "id": 137444487,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-04T18:35:50Z",
+            "last_commit": "2026-11-10T01:35:38Z",
             "open_issues": 168,
             "owner": "jupytext",
             "repo": "jupytext",
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T07:01:22.744Z",
+    "last_updated": "2026-11-10T07:38:11.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
