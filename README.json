@@ -576,7 +576,7 @@
             "open_issues": 63,
             "owner": "altair-viz",
             "repo": "jupyterlab_voyager",
-            "stars": 304,
+            "stars": 305,
             "topics": [
               "jupyterlab",
               "jupyterlab-extension",
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T07:38:11.471Z",
+    "last_updated": "2026-11-11T06:57:04.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
