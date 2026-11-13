@@ -189,15 +189,15 @@ An Extension for the Interactive development of Dash apps in JupyterLab
 
 ### [jupyter-renderers](https://github.com/jupyterlab/jupyter-renderers) ⭐ 517 | 🐛 46 | 🌐 HTML | 📅 2026-03-04
 
-This is a [monorepo](https://github.com/lerna/lerna#what-does-a-lerna-repo-look-like) ⭐ 36,030 | 🐛 302 | 🌐 TypeScript | 📅 2026-11-11 that consists of generic renderers for common file types and mime types as well as renderer extensions for [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,399 | 🐛 2,563 | 🌐 TypeScript | 📅 2026-11-11.
+This is a [monorepo](https://github.com/lerna/lerna#what-does-a-lerna-repo-look-like) ⭐ 36,031 | 🐛 302 | 🌐 TypeScript | 📅 2026-11-13 that consists of generic renderers for common file types and mime types as well as renderer extensions for [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,399 | 🐛 2,550 | 🌐 TypeScript | 📅 2026-11-12.
 
-### [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib) ⭐ 1,661 | 🐛 170 | 🌐 Jupyter Notebook | 📅 2026-07-31
+### [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib) ⭐ 1,662 | 🐛 170 | 🌐 Jupyter Notebook | 📅 2026-07-31
 
 Leveraging the Jupyter interactive widgets framework, jupyter-matplotlib enables the interactive features of matplotlib in the Jupyter notebook and in Jupyterlab.
 
 ![matplotlin](https://github.com/matplotlib/jupyter-matplotlib/raw/master/matplotlib.gif)
 
-### [jupyterlab\_tensorboard](https://github.com/chaoleili/jupyterlab_tensorboard) ⭐ 312 | 🐛 25 | 🌐 TypeScript | 📅 2022-07-21
+### [jupyterlab\_tensorboard](https://github.com/chaoleili/jupyterlab_tensorboard) ⭐ 311 | 🐛 25 | 🌐 TypeScript | 📅 2022-07-21
 
 A JupyterLab extension for tensorboard.
 
@@ -223,7 +223,7 @@ Making GUIs easy for everyone on your team. The primary benefit is that front en
 
 ### [knowledgelab](https://github.com/timkpaine/knowledgelab) ⭐ 48 | 🐛 2 | 🌐 Python | 📅 2026-10-05
 
-Seamless integration of [Knowledge-Repo](https://github.com/airbnb/knowledge-repo) ⚠️ Archived and [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,399 | 🐛 2,563 | 🌐 TypeScript | 📅 2026-11-11. The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles using data formats and tools that make sense in these professions.
+Seamless integration of [Knowledge-Repo](https://github.com/airbnb/knowledge-repo) ⚠️ Archived and [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,399 | 🐛 2,550 | 🌐 TypeScript | 📅 2026-11-12. The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles using data formats and tools that make sense in these professions.
 
 ![Main Feed](https://user-images.githubusercontent.com/124910/37555895-d6ad133a-2a42-11e8-9bb5-1b7ee8d60ef9.png)
 
@@ -259,7 +259,7 @@ Connect to OmniSci, query their databases, and render the OmniSci-flavored Vega 
 
 ## Tools
 
-### [mwouts / jupytext](https://github.com/mwouts/jupytext) ⭐ 7,279 | 🐛 167 | 🌐 Python | 📅 2026-11-11
+### [mwouts / jupytext](https://github.com/mwouts/jupytext) ⭐ 7,280 | 🐛 164 | 🌐 Python | 📅 2026-11-12
 
 Jupyter notebooks as Markdown documents, Julia, Python or R scripts.
 
@@ -269,7 +269,7 @@ A jupyterlab extension to email notebooks from the browser.
 
 ### [JupyterLab Top Bar](https://github.com/jtpio/jupyterlab-topbar) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2024-02-23
 
-Monorepo to experiment with the top bar space in JupyterLab. Similar to the [status bar](https://github.com/jupyterlab/jupyterlab/tree/master/packages/statusbar-extension) ⭐ 15,399 | 🐛 2,563 | 🌐 TypeScript | 📅 2026-11-11, the top bar can be used to place a few indicators and optimize the overall space.
+Monorepo to experiment with the top bar space in JupyterLab. Similar to the [status bar](https://github.com/jupyterlab/jupyterlab/tree/master/packages/statusbar-extension) ⭐ 15,399 | 🐛 2,550 | 🌐 TypeScript | 📅 2026-11-12, the top bar can be used to place a few indicators and optimize the overall space.
 
 ![screenshot](https://github.com/jtpio/jupyterlab-topbar/raw/master/doc/screenshot.png)
 
@@ -332,4 +332,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
