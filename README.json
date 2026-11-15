@@ -18,7 +18,7 @@
             "open_issues": 104,
             "owner": "jupyter",
             "repo": "nbdime",
-            "stars": 2847,
+            "stars": 2848,
             "topics": [
               "diff",
               "diffing",
@@ -552,7 +552,7 @@
             "open_issues": 811,
             "owner": "jupyter-widgets",
             "repo": "ipywidgets",
-            "stars": 3337,
+            "stars": 3338,
             "topics": [
               "jupyter-notebooks",
               "jupyterlab-extension"
@@ -750,7 +750,7 @@
             "open_issues": 168,
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7279,
+            "stars": 7280,
             "topics": [
               "hydrogen",
               "jupyter-notebook",
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T06:53:16.372Z",
+    "last_updated": "2026-11-15T06:58:54.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
