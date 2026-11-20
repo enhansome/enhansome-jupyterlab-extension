@@ -15,10 +15,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-06-10T10:12:19Z",
-            "open_issues": 104,
+            "open_issues": 100,
             "owner": "jupyter",
             "repo": "nbdime",
-            "stars": 2847,
+            "stars": 2846,
             "topics": [
               "diff",
               "diffing",
@@ -85,7 +85,7 @@
             "open_issues": 0,
             "owner": "jupyterlab",
             "repo": "jupyterlab-google-drive",
-            "stars": 400,
+            "stars": 399,
             "topics": [
               "google-drive",
               "jupyterlab",
@@ -144,7 +144,7 @@
             "open_issues": 27,
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab_code_formatter",
-            "stars": 908,
+            "stars": 907,
             "topics": [
               "autopep8",
               "black",
@@ -238,7 +238,7 @@
             "open_issues": 31,
             "owner": "jupyterlab",
             "repo": "jupyterlab-latex",
-            "stars": 685,
+            "stars": 684,
             "topics": [
               "jupyterlab",
               "jupyterlab-extension",
@@ -576,7 +576,7 @@
             "open_issues": 63,
             "owner": "altair-viz",
             "repo": "jupyterlab_voyager",
-            "stars": 305,
+            "stars": 304,
             "topics": [
               "jupyterlab",
               "jupyterlab-extension",
@@ -626,7 +626,7 @@
             "open_issues": 127,
             "owner": "InsightSoftwareConsortium",
             "repo": "itkwidgets",
-            "stars": 625,
+            "stars": 624,
             "topics": [
               "image-analysis",
               "imaging",
@@ -750,7 +750,7 @@
             "open_issues": 159,
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7282,
+            "stars": 7281,
             "topics": [
               "hydrogen",
               "jupyter-notebook",
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T07:46:16.375Z",
+    "last_updated": "2026-11-20T07:38:41.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
@@ -1022,7 +1022,7 @@
       "language": null,
       "license": null,
       "last_commit": "2022-11-10T06:37:26Z",
-      "open_issues": 2,
+      "open_issues": 1,
       "owner": "Yogayu",
       "repo": "awesome-jupyterlab-extension",
       "stars": 261,
