@@ -497,7 +497,7 @@
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
             "last_commit": "2026-07-31T12:18:52Z",
-            "open_issues": 170,
+            "open_issues": 171,
             "owner": "matplotlib",
             "repo": "ipympl",
             "stars": 1662,
@@ -746,11 +746,11 @@
             "id": 137444487,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-22T17:48:40Z",
-            "open_issues": 133,
+            "last_commit": "2026-11-24T01:36:23Z",
+            "open_issues": 134,
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7283,
+            "stars": 7284,
             "topics": [
               "hydrogen",
               "jupyter-notebook",
@@ -1013,7 +1013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T08:00:06.945Z",
+    "last_updated": "2026-11-24T10:15:43.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.",
